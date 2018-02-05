@@ -1,0 +1,12 @@
+{
+	"comment": "",
+	"heroku": {
+		"goVersion": "go1.9.3",
+		"install": [
+			"./..."
+		]
+	},
+	"ignore": "test",
+	"package": [],
+	"rootPath": "github.com/heroku/the-rock-paper-scissors"
+}
